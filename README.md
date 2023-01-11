@@ -2,10 +2,6 @@
 
 #### Desenvolvimento com React.js
 
-### Front-end
-- Desktop - OK!
-- Mobile - Em desenvolvimento
+- Desktop - OK! 
 
 
-### Back-end
-- em desenvolvimento
