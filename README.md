@@ -3,6 +3,6 @@
 #### Desenvolvimento com React.js
 
 - Desktop - OK!
-- Mobile - Em desenvolvimento
+- Mobile - OK!
 
 
